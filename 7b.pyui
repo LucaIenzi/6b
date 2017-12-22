@@ -1,0 +1,304 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{122, 109}, {200, 30}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{170, 254}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "216EFB86-F758-4E5B-B51E-B91DFDECEB81",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "input",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{13, 28}, {491, 73}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "803F3300-ABDC-47A3-8EE4-67D9F894C7E1",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "before the weather play this sort game enter a number and it will genterate the amount that you inputed and find the max number and the minimum just for fun and to wake you up",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{13, 147}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "04263312-2D6F-4953-893F-4F457C0D93BC",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "random",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{13, 187}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "34859C84-4588-4F26-872B-43D6ACE85EC0",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "max",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{13, 227}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "B1E73B37-F061-4564-9FC8-8D40A16C7DDD",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "min",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 267}, {482, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "D03612B1-426C-43B7-AE9E-E45CD10572A0",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "text",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 341}, {437, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "2B6905A2-DEDD-488C-A50C-8CEAFAB78E37",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "sunday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 381}, {431, 21}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "DB135335-26E0-4F87-B055-5B5288C9A9D8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "monday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 410}, {431, 24}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "528CA3C7-2E45-4814-8A03-FE2CC34C0F3E",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "tuesday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 442}, {425, 27}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "241CD466-53D1-4EDA-95DB-8EB2430500B6",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "wenday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 477}, {419, 25}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "3184A889-28BA-4087-B67A-E9A76732801C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "thursday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 510}, {431, 24}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "ED056503-9A75-48A5-B6D8-90BD29FEB727",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "friday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{221, 307}, {319, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "00FCA5CF-FC4E-49A5-88D1-608373AE9A54",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "satderday",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{351, 109}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "enter",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "enter",
+          "uuid" : "178D17A8-7F92-44F4-9519-F92982EEC7C4",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 164}, {218, 95}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "3A9B1367-0A87-4815-9AA9-56A6EA370979",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "hot",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{327, 175}, {224, 84}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "7BC5DC04-4799-427D-AEAF-DB6D43B1FDBA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "cold",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
