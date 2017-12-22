@@ -1,0 +1,382 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {540, 540}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "back_round",
+          "uuid" : "821259EA-47CB-4A32-B09E-992BD85BA7F3"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{460, 0}, {80, 51}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "help",
+          "name" : "help",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Button",
+          "uuid" : "A039F884-D8A6-4DD6-A1E9-F241EC47FCD0",
+          "class" : "Button",
+          "font_size" : 15,
+          "image_name" : "iob:help_256"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{434, 322}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "hit",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Hit",
+          "uuid" : "67A7809E-6A65-4B11-B9EB-AC4CD2FB4806",
+          "class" : "Button",
+          "name" : "hit",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 247}, {406, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "49BAA290-5D72-49E6-ACAB-8341F071A7F9",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "Score",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 76}, {100, 153}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_one",
+          "uuid" : "745CA3BC-2674-46F6-B5C3-9CB3925A7F0A"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{161, 76}, {100, 153}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_two",
+          "uuid" : "F5AC4A9E-5099-43AD-B161-0123266AB20E"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{290, 76}, {100, 153}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_three",
+          "uuid" : "23154FD8-6A5F-4D86-A02A-29915613FA6C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 301}, {100, 167}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "user_card_one",
+          "uuid" : "44BA800F-5B91-41C4-972A-E86B23AD75CD"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{176, 301}, {100, 167}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "user_card_two",
+          "uuid" : "82F7A405-CBE6-4621-A23C-DEC107393BD0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{302, 301}, {100, 167}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "user_card_three",
+          "uuid" : "B256A256-D88C-47B6-90B5-452E6450491C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{434, 373}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "check",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Stand",
+          "uuid" : "0DD2DA73-EBDA-4DFB-8067-12434609E339",
+          "class" : "Button",
+          "name" : "Check",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{420, 59}, {120, 200}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 17,
+          "editable" : false,
+          "frame" : "{{170, 170}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "9FB72316-5D19-47CA-AF62-34AFD08BD3C1",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "help_text",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{473, 413}, {61, 29}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "F00D6CB5-529D-4EDB-913B-97F5FFA38568",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "bet",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {540, 540}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{220, 220}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "bet_screen",
+          "uuid" : "A559D9F0-6B6C-40E0-BED8-7DF91F62CC3B"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{121, 254}, {269, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{170, 254}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "25E4A370-A197-4C8B-BD1D-B748AB002B68",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "input_bet",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{267, 287}, {100, 39}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "bet",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "tint_color" : "RGBA(0.023585,0.023585,0.002358,1.000000)",
+          "title" : "enter",
+          "uuid" : "71171F03-A80D-4860-9C4A-6AD1A9159D6E",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "enter",
+          "font_size" : 28
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{176, 207}, {179, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "0A0A4006-4E42-43EB-9F15-F0D564EB2195",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "place your bet",
+          "name" : "help_lable",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{348, 406}, {89, 45}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "B5843233-6328-476C-ADC5-7B0C0B90C3F3",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "cash",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{147, 406}, {220, 43}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "BED28761-340E-437C-8C6A-DFB4BE26213F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "your cash dont over spend",
+          "name" : "smart",
+          "font_name" : "AmericanTypewriter-CondensedBold"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{121, 483}, {369, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "B192CCD5-DB08-415C-801E-9C47F99DC72D",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "nice_try",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{454, 207}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "new",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Next Round",
+          "uuid" : "E3510868-AD07-42C9-A4FF-3ABB97AA84E4",
+          "class" : "Button",
+          "name" : "next",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{398, 413}, {79, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "info",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "725A734D-0A9A-4EF8-9B1B-39C486A1B892",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "your bet",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
